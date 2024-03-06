@@ -1,0 +1,10 @@
+{
+  "eslint.format.enable": true,
+  "eslint.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["typescript", "javascript"],
+  "editor.tabSize": 2,
+  "typescript.preferences.quoteStyle": "single"
+}
